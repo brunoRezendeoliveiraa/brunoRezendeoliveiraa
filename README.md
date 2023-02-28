@@ -1,6 +1,6 @@
 ### Bem vindo! 👋 Me chamo Bruno e sou estudante da área de desenvolvimento mobile, com foco na linguagem Java!
 
-[![brunoRezendeoliveiraa](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoRezendeoliveiraa&layout=compact)](https://github.com/brunoRezendeoliveiraa/github-readme-stats)
+<!-- [![brunoRezendeoliveiraa](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoRezendeoliveiraa&layout=compact)](https://github.com/brunoRezendeoliveiraa/github-readme-stats) -->
 
 ### 🖥️ Tecnologias que utilizo no dia a dia:
 <div style="display: inline_block"></br>
