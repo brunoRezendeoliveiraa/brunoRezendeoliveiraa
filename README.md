@@ -1,4 +1,4 @@
-### Bem vindo! 👋 Me chamo Bruno e sou estudante da área de desenvolvimento mobile, com foco na linguagem Java!
+### Bem vindo! 👋 Me chamo Bruno e sou estudante da área de desenvolvimento/Ciber Segurança.
 
 ## 🚀 Sobre mim
 Bacharel em Sistemas de Informação, possuo o foco na linguagem Java, tendo experiência de construção de projetos Back-End.
