@@ -1,7 +1,7 @@
 ### Bem vindo! 👋 Me chamo Bruno e sou estudante da área de desenvolvimento/Ciber Segurança.
 
 ## 🚀 Sobre mim
-Bacharel em Sistemas de Informação, possuo o foco na linguagem Java, tendo experiência de construção de projetos Back-End.
+Bacharel em Sistemas de Informação, possuo o foco na linguagem Java, tendo experiência de construção de projetos Back-End mas também Front-End.
 
 Atualmente estudo criação de projetos para Mobile e Web Java, e também estudando Ciber-Segurança.
 
